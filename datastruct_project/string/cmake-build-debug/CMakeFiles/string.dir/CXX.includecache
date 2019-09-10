@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuerp/Documents/CLionProjects/datastructure/string/main.cpp
+mystring.h
+/home/yuerp/Documents/CLionProjects/datastructure/string/mystring.h
+
+/home/yuerp/Documents/CLionProjects/datastructure/string/mystring.cpp
+mystring.h
+/home/yuerp/Documents/CLionProjects/datastructure/string/mystring.h
+
+/home/yuerp/Documents/CLionProjects/datastructure/string/mystring.h
+stdio.h
+-
+iostream
+-
+string.h
+-
+

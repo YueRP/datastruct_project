@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuerp/Documents/CLionProjects/datastructure/parking/main.cpp
+stdparking.h
+/home/yuerp/Documents/CLionProjects/datastructure/parking/stdparking.h
+
+/home/yuerp/Documents/CLionProjects/datastructure/parking/stdparking.cpp
+stdparking.h
+/home/yuerp/Documents/CLionProjects/datastructure/parking/stdparking.h
+
+/home/yuerp/Documents/CLionProjects/datastructure/parking/stdparking.h
+stdio.h
+-
+iostream
+-
+

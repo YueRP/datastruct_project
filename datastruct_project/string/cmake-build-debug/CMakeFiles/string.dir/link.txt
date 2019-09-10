@@ -1,0 +1,1 @@
+/usr/bin/g++-4.8  -g   CMakeFiles/string.dir/main.cpp.o CMakeFiles/string.dir/mystring.cpp.o  -o string 
